@@ -1,6 +1,6 @@
 <h1 align="center">Moises Ceazar Del Mundo</h1>
 <p align="center">
-  <b>SOC Analyst Intern Candidate · ISC2 Certified in Cybersecurity (CC)</b><br/>
+  <b>Aspiring SOC Analyst · ISC2 Certified in Cybersecurity (CC) · Open to OJT</b><br/>
   Fourth-year BSIT (Information Security) · De La Salle Lipa · Philippines
 </p>
 
