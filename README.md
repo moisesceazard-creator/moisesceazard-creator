@@ -32,18 +32,22 @@ Blue Team–focused Information Security student looking for a **SOC Analyst / C
 | [**Wazuh-SIEM-Endpoint-Monitoring-Lab**](https://github.com/moisesceazard-creator/Wazuh-SIEM-Endpoint-Monitoring-Lab) | Wazuh agent–manager, FIM, active response, custom XML rules |
 | [**Nessus-Vulnerability-Assessment-Lab**](https://github.com/moisesceazard-creator/Nessus-Vulnerability-Assessment-Lab) | Nessus scanning and remediation playbooks with before/after proof |
 | [**Email-Header-Forensics-and-Authentication-Analysis**](https://github.com/moisesceazard-creator/Email-Header-Forensics-and-Authentication-Analysis) | SPF, DKIM, DMARC and ARC analysis for phishing triage |
+| **Netscanner v3** (docs on request) | Pure-Python raw-socket host scanner: ICMP + TCP fallback, 200 threads, a /24 in ~1–1.5 s |
 | [**Nmap-Network-Reconnaissance-Lab**](https://github.com/moisesceazard-creator/Nmap-Network-Reconnaissance-Lab) | Authorized recon, service enumeration and exposure assessment |
 
 ### 🧰 Toolbox
 
-- **SIEM & monitoring:** Security Onion · Wazuh · Elastic Stack (Elasticsearch, Logstash, Kibana) · Suricata · Zeek · ElastAlert 2
-- **Endpoint & vulnerability:** Sophos Central · Action1 RMM · Tenable Nessus · OpenVAS · Nmap · Hydra · Windows Sysinternals
-- **Systems:** Windows · Linux · Active Directory · PowerShell · Proxmox VE
-- **Frameworks:** NIST CSF 2.0 · MITRE ATT&CK · STRIDE · Philippine NCSP 2023–2028
+- **SIEM & detection:** Security Onion · Wazuh · Elastic Stack (Kibana) · Suricata · Zeek · ElastAlert 2 · Sigma · Osquery / Elastic Fleet
+- **SOC operations:** Alert triage · KQL threat hunting · PCAP analysis (Wireshark) · case management · containment · incident reports
+- **Endpoint & network security:** Sophos Central · Sysmon · Action1 RMM · Fortinet FortiGate · pfSense · T-Pot honeypot
+- **Vulnerability & testing:** Tenable Nessus · OpenVAS · Kali Linux · Nmap · Metasploit · Hydra · Lynis
+- **Threat intel & malware analysis:** VirusTotal · AbuseIPDB · AlienVault OTX · Any.run · Hybrid Analysis · CyberChef · MXToolbox
+- **Systems, networking & scripting:** Python · PowerShell · Bash · SQL · Git · Windows · Linux · Active Directory · Proxmox VE · VLANs · DHCP · subnetting
+- **Governance & risk:** NIST CSF 2.0 · CIS Controls v8 · MITRE ATT&CK · STRIDE · risk assessment (ALE, cost-benefit) · BC/DR planning · Philippine NCSP 2023–2028
 
 ### 📜 Certifications
 
-ISC2 Certified in Cybersecurity (CC) · Appkademiya Certified Cybersecurity Professional (CCP) · Google Cybersecurity courses · Fortinet Threat Landscape 3.0 · Cisco Intro to Cybersecurity · 6 LetsDefend SOC badges
+ISC2 Certified in Cybersecurity (CC) · Appkademiya Certified Cybersecurity Professional (CCP) · Google Cybersecurity courses · Fortinet Threat Landscape 3.0 · Cisco Intro to Cybersecurity · DICT Region IV-A trainings (GitHub Actions, CALABARZON CyberTalks) · 6 LetsDefend SOC badges
 
 ---
 
