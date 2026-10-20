@@ -32,7 +32,7 @@ Blue Team–focused Information Security student looking for a **SOC Analyst / C
 | [**Wazuh-SIEM-Endpoint-Monitoring-Lab**](https://github.com/moisesceazard-creator/Wazuh-SIEM-Endpoint-Monitoring-Lab) | Wazuh agent–manager, FIM, active response, custom XML rules |
 | [**Nessus-Vulnerability-Assessment-Lab**](https://github.com/moisesceazard-creator/Nessus-Vulnerability-Assessment-Lab) | Nessus scanning and remediation playbooks with before/after proof |
 | [**Email-Header-Forensics-and-Authentication-Analysis**](https://github.com/moisesceazard-creator/Email-Header-Forensics-and-Authentication-Analysis) | SPF, DKIM, DMARC and ARC analysis for phishing triage |
-| **Netscanner v3** (docs on request) | Pure-Python raw-socket host scanner: ICMP + TCP fallback, 200 threads, a /24 in ~1–1.5 s |
+| **Netscanner** (docs on request) | Fast reachability scanner: pings a whole subnet in parallel, checks common ports when ping is blocked; a /24 in ~1–1.5 s, pure Python |
 | [**Nmap-Network-Reconnaissance-Lab**](https://github.com/moisesceazard-creator/Nmap-Network-Reconnaissance-Lab) | Authorized recon, service enumeration and exposure assessment |
 
 ### 🧰 Toolbox
